@@ -3,9 +3,10 @@
 import requests
 import pytz
 from datetime import datetime
+import time
 
-token = "4VsNnz6rhKaqBGRIIPZ0lzvFQRmaoR5k4Nch4OqrOaQ"
-address = "5Df98F28D0F64b4D46e44afB01E04dD63F715aE4"
+token = ""
+address = ""
 
 
 
@@ -69,4 +70,5 @@ def alert():
 
 while True:
     alert()
+    print("Next Msg in 15 Minutes...")
     time.sleep(60*15)
