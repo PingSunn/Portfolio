@@ -14,6 +14,7 @@ Create Table **blacklist_tsmd** and **blacklist_tspd**
 
 Connect To Database
 
+
 ## Usage
 
 ```sql
@@ -24,7 +25,10 @@ $password = "";
 $dbname = "";
 
 ```
-
+```php 
+<!--  Discord Webhook Url-->
+$webhookurl = "";
+```
 
 ## Author
 [PingSunn](https://www.fb.com/pingsunn) | [Website](https://ping-pongskaorn.online)
