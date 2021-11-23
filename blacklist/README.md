@@ -12,6 +12,7 @@ Blacklist สร้างตอนที่ผมได้เล่น FiveM (GT
 
 Connect To Database
 
+Create Table **blacklist_tsmd** and **blacklist_tspd**
 ## Usage
 
 ```sql
