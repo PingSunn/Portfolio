@@ -10,9 +10,9 @@ Blacklist สร้างตอนที่ผมได้เล่น FiveM (GT
 
 ## Installation
 
+Create Table **blacklist_tsmd** and **blacklist_tspd** 
 Connect To Database
 
-Create Table **blacklist_tsmd** and **blacklist_tspd**
 ## Usage
 
 ```sql
