@@ -28,7 +28,7 @@
 ?>
 
 <?php
-$webhookurl = "https://discord.com/api/webhooks/899666419472560149/bPF1VxdN-RhJqT4YJ9HCqQBqetip5MJGjA0CRelww3SLfKCUBKJqkUxyeGRxjhDTnUXu";
+$webhookurl = "";
 date_default_timezone_set("Asia/Bangkok");
 $timestamp = date("D j M Y h:i A", strtotime("now"));
 
